@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
   <!-- Primeira coluna -->
   <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -21,7 +21,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </div>
 </div>
-
 
 ###
 
